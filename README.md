@@ -35,16 +35,18 @@ Para navegar al directorio del proyecto después de clonar el repositorio, utili
    ```bash
    git clone https://github.com/usuario/proyecto-ejemplo.git
 
-## Instalación
+## Instalación de dependencias
 
-Para instalar las dependencias necesarias, ejecuta el siguiente comando:
+Para instalar las dependencias necesarias, usa el siguiente comando en la terminal:
 
 ```bash
 pip install numpy scipy matplotlib tkinter
-
+```
 ## Uso
 
 Para ejecutar el modelo, puedes usar el siguiente comando en la terminal:
 
 ```bash
 python modelo.py
+
+
